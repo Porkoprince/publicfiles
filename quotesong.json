@@ -1,0 +1,370 @@
+{
+  "QuoteOfTheDay": [
+    {
+      "quote": "Age is something that doesn't matter, unless you are a cheese or wine.",
+      "author": "Luis Brunel",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Expecting the world to treat you fairly because you are a good person is a little like expecting the bull not to attack you because you are a vegetarian.",
+      "author": "Dennis Wholey",
+      "mood": "Sad"
+    },
+    {
+      "quote": "The only place success comes before work is in the English dictionary.",
+      "author": "Vince Lombardi",
+      "mood": "Angry"
+    },
+    {
+      "quote": "Whatever you do, always give 100%. Unless you're donating blood.",
+      "author": "Bill Murray",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Two forks are better than one.",
+      "author": "Balnur",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Whoever said that money can’t buy happiness, simply didn’t know where to go shopping.",
+      "author": "Bo Derek",
+      "mood": "Happy"
+    },
+    {
+      "quote": "So be wise, because the world needs more wisdom, and if you cannot be wise, pretend to be someone who is wise, and then just behave like they would.",
+      "author": "Neil Gaiman",
+      "mood": "Happy"
+    },
+    {
+      "quote": "All you need is love. But a little chocolate now and then doesn’t hurt.",
+      "author": "Charles M. Schulz",
+      "mood": "Sad"
+    },
+    {
+      "quote": "People say that money is not the key to happiness, but I always figured if you have enough money, you can have a key made.",
+      "author": "Joan Rivers",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Those people who think they know everything are a great annoyance to those of us who do.",
+      "author": "Isaac Asimov",
+      "mood": "Happy"
+    },
+    {
+      "quote": "The reason I talk to myself is because I’m the only one whose answers I accept.",
+      "author": "George Carlin",
+      "mood": "Happy"
+    },
+    {
+      "quote": "I like work. It fascinates me. I can sit and look at it for hours.",
+      "author": "Jerome K. Jerome",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Trying is the first step toward failure.",
+      "author": "Homer Simpson",
+      "mood": "Happy"
+    },
+    {
+      "quote": "By working faithfully eight hours a day, you may eventually get to be boss and work 12 hours a day.",
+      "author": "Robert Frost",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Adults are always asking children what they want to be when they grow up because they’re looking for ideas.",
+      "author": "Paula Poundstone",
+      "mood": "Happy"
+    },
+    {
+      "quote": "The best way to appreciate your job is to imagine yourself without one.",
+      "author": "Oscar Wilde",
+      "mood": "Happy"
+    },
+    {
+      "quote": "'Fries or salad?' sums up every adult decision you have to make.",
+      "author": "Aparna Nancherla",
+      "mood": "Happy"
+    },
+    {
+      "quote": "Love is being stupid together.",
+      "author": "Paul Valery",
+      "mood": "Happy"
+    },
+    {
+      "quote": "If you're going through hell, keep going.",
+      "author": "Winston Churchill",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Do or do not. There is no try.",
+      "author": "Yoda, from Star Wars",
+      "mood": "Happy"
+    },
+    {
+      "quote": "When sh!t happens turn it into fertilizer.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "After Tuesday, even the calendar goes W T F.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Why be moody when you can shake yo booty?",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Life is short. Buy the shoes.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "People who wonder whether the glass is half empty or half full are missing the point. The glass is refillable.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "There is no angry way to say bubbles.",
+      "author": "Unknown",
+      "mood": "Angry"
+    },
+    {
+      "quote": "The elevator to success is out of order. You’ll have to use the stairs, one step at a time.",
+      "author": "Joe Girard",
+      "mood": "Sad"
+    },
+    {
+      "quote": "I always wanted to be somebody, but now I realize I should have been more specific.",
+      "author": "Lily Tomlin",
+      "mood": "Sad"
+    },
+    {
+      "quote": "I am so clever that sometimes I don’t understand a single word of what I am saying.",
+      "author": "Oscar Wilde",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Be happy – it drives people crazy.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "I believe that if life gives you lemons, you should make lemonade… And try to find somebody whose life has given them vodka, and have a party.",
+      "author": "Ron White",
+      "mood": "Sad"
+    },
+    {
+      "quote": "A diamond is merely a lump of coal that did well under pressure.",
+      "author": "Unknown",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Nothing is impossible, the word itself says 'I'm possible!'",
+      "author": "Audrey Hepburn",
+      "mood": "Sad"
+    },
+    {
+      "quote": "Whoever is able to anger you is able to control you.",
+      "author": "Unknown",
+      "mood": "Angry"
+    },
+    {
+      "quote": "When you let anger get the best of you, it brings out the worst in you.",
+      "author": "Unknown",
+      "mood": "Angry"
+    },
+    {
+      "quote": "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+      "author": "Buddha",
+      "mood": "Angry"
+    },
+    {
+      "quote": "You will not be punished for your anger; you will be punished by your anger.",
+      "author": "Buddha",
+      "mood": "Angry"
+    },
+    {
+      "quote": "Anger is a wind which blows out the lamp of the mind.",
+      "author": "Robert Green Ingersoll",
+      "mood": "Angry"
+    },
+    {
+      "quote": "You need a hug!",
+      "author": "Jonathan Zeman",
+      "mood": "Angry"
+    },
+    {
+      "quote": "You look so cute when you're angry!",
+      "author": "Jonathan Zeman",
+      "mood": "Angry"
+    },
+    {
+      "quote": "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+      "author": "Yoda, from Star Wars",
+      "mood": "Angry"
+    },
+    {
+      "quote": "The greatest teacher, failure is.",
+      "author": "Yoda, from Star Wars",
+      "mood": "Angry"
+    }
+  ],
+  "SongOfTheDay": [
+    {
+      "title": "endless",
+      "artist": "GenriX, CORBAL, Shiloh Dynasty",
+      "album": "unfortunately yours",
+      "mood": "Sad",
+      "url": "https://open.spotify.com/track/3mYwZtV5Y7b4DjCQdR35N7?si=376ffa9686bc4188"
+    },
+    {
+      "title": "Again",
+      "artist": "Shiloh Dynasty, Timmies",
+      "album": "Vivid Pictures",
+      "mood": "Sad",
+      "url": "https://open.spotify.com/track/5e2l2ZAMwHmrkdM4Z6NhAR?si=2d98420c308f43e3"
+    },
+    {
+      "title": "Is There Free Breakfast Here?",
+      "artist": "Hotel Ugly",
+      "album": "Ugly Duck",
+      "mood": "Sad",
+      "url": "https://open.spotify.com/track/30jui3PqevssdIVpjEWM38?si=f88081bd74dc4740"
+    },
+    {
+      "title": "I Think I Left the Stove On",
+      "artist": "Hotel Ugly",
+      "album": "I Think I Left the Stove On",
+      "mood": "Sad",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG?si=a0a3eb42fda740e9"
+    },
+    {
+      "title": "Losing Interest",
+      "artist": "Stract, Shiloh Dynasty",
+      "album": "Losing Interest",
+      "mood": "Sad",
+      "url": "https://open.spotify.com/track/3RbNcjVnQixKa1sULcwd2K?si=68cd375d81a449b6"
+    },
+    {
+      "title": "Speed King",
+      "artist": "Röyksopp",
+      "album": "Profound Mysteries III",
+      "mood": "Happy",
+      "url": "https://open.spotify.com/track/5dYybhJ4xuoPgRP7ld0JOj?si=58ab5cbc9a3c4929"
+    },
+    {
+      "title": "Kawjilori - Sir Piers Mix",
+      "artist": "Roy Ayers",
+      "album": "Virgin Ubiquity: Remixed EP 5",
+      "mood": "Happy",
+      "url": "https://open.spotify.com/track/28qPaIWKZ8MIfj2LDK4GfS?si=3220804c701c4f4e"
+    },
+    {
+      "title": "Upper Echelon (feat. T.I.& 2 Chainz)",
+      "artist": "Travis Scott, T.I., 2 Chainz",
+      "album": "Single",
+      "mood": "Angry",
+      "url": "https://open.spotify.com/track/1x6Zk7hoTIlSOFNZnyxjZD?si=c9422900f63b40f3"
+    },
+    {
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott, Playboi Carti",
+      "album": "UTOPIA",
+      "mood": "Angry",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA?si=6bd23d65152f4d0a"
+    },
+    {
+      "title": "Deyers Eve",
+      "artist": "Metallica",
+      "album": "Dyers Eve",
+      "mood": "Angry",
+      "url": "https://open.spotify.com/track/6ID6lKqMlseHotPopDMqQS?si=51c5c6733d5f452a"
+    },
+      {
+    "title": "Ozin Gana",
+    "artist": "Moldanazar",
+    "album": "Ozin Gana",
+    "mood": "Sad",
+    "url": "https://open.spotify.com/track/4VV9H9WwyCO5lGWgbC7t3U?si=75d236afccbf4393"
+  },
+  {
+    "title": "Men Seni Suyemin",
+    "artist": "Son Pascal",
+    "album": "Yurt",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/7tb9Wo86D1xDkKqTbZ3J0p?si=1f77c84f06c142aa"
+  },
+  {
+    "title": "TOO COOL TO BE CARELESS",
+    "artist": "PAWSA",
+    "album": "TOO COOL TO BE CARELESS",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5?si=5d69a0979d8c4022"
+  },
+  {
+    "title": "Outro",
+    "artist": "M83",
+    "album": "Hurry up, We're Dreaming",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV?si=7ee41277f7f6422b"
+  },
+  {
+    "title": "Adieux",
+    "artist": "M83",
+    "album": "Les rencontres d'apres minuit / You and the Night",
+    "mood": "Sad",
+    "url": "https://open.spotify.com/track/2SPEvXfbe2LGBlvYKKAvVC?si=b76f24a1a2284f38"
+  },
+  {
+    "title": "Heaven Takes You Home (feat. Connie Constance)",
+    "artist": "Swedish House Mafia and Connie Constance",
+    "album": "Paradise Again",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4?si=67b606c14f564b32"
+  },
+  {
+    "title": "How You Feel (Ft. Leven Kali)",
+    "artist": "ANOTR and Erik Bandt and Leven Kali",
+    "album": "How You Feel (Ft. Leven Kali)",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0?si=699593441b124558"
+  },
+  {
+    "title": "Black Friday (pretty like the sun)",
+    "artist": "Lost Frequencies and Tom Odell",
+    "album": "Black Friday (pretty like the sun)",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco?si=f0e391443064420e"
+  },
+  {
+    "title": "Full Moon",
+    "artist": "The Black Ghosts",
+    "album": "The Black Ghosts",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/0uwNtbl80CvP4EFio32PYv?si=8e34c4e887a5444f"
+  },
+  {
+    "title": "soso",
+    "artist": "Omah Lay",
+    "album": "Adieu",
+    "mood": "Sad",
+    "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn?si=4054a3cb0a88492d"
+  },
+  {
+    "title": "Adieu",
+    "artist": "Tchami",
+    "album": "Adieu",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/62OQBLpD3TmkqbtTPqqdRt?si=e427315d5af24183"
+  },
+  {
+    "title": "Innerbloom",
+    "artist": "RÜFÜS DU SOL",
+    "album": "Bloom",
+    "mood": "Sad",
+    "url": "https://open.spotify.com/track/05kVyNUR9uibHta4jcGTTv?si=923eeaf0e4c7407a"
+  }
+  ]
+}
