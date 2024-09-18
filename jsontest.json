@@ -6,8 +6,14 @@
       "mood": "Happy"
     }
   ],
-  {
-  "SongOfTheDay": [
-    {
-      
+{
+ "SongOfTheDay": [
+   {
+    "title": "TOO COOL TO BE CARELESS",
+    "artist": "PAWSA",
+    "album": "TOO COOL TO BE CARELESS",
+    "mood": "Happy",
+    "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5?si=5d69a0979d8c4022"
+  }
+ ]  
 }
