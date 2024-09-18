@@ -1,1 +1,9 @@
-
+{
+  "QuoteOfTheDay": [
+    {
+      "quote": "Age is something that doesn't matter, unless you are a cheese or wine.",
+      "author": "Luis Brunel",
+      "mood": "Happy"
+    }
+  ]
+}
